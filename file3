@@ -1,3 +1,7 @@
 abc 123
 
 This line is added from linux instance
+
+This file is modified by some other developer and this is pushed to repo .
+
+I will have both the changes in my file.
